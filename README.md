@@ -19,7 +19,7 @@ Nx Witness サーバーと同じ PC で動き、機器からの通知の受け�
 
 ## ライセンス
 
-- 本ソフトウェアの使用には、インストール時に表示される**使用許諾契約書**への同意が必要です。
+- 本ソフトウェアの使用には、**使用許諾契約書**（[日本語](EULA.ja.txt) / [English](EULA.en.txt)）への同意が必要です。インストール時と、管理画面への最初のログイン時にも表示されます。
 - ライセンスの登録前は、初回起動日から 14 日間、評価の目的で使用できます。
 - 本ソフトウェアの再配布はできません。
 
@@ -36,5 +36,5 @@ Vigilink Hub runs on the same PC as an Nx Witness server. It receives notificati
 This repository hosts **installers only**. The source code is not public.
 
 - **Download:** see [Releases](../../releases). Windows 10 / 11 / Server 2016 or later (64-bit): `.msi`. Ubuntu 20.04 or later (amd64): `.deb`. Supported Nx Witness version: 6.1.
-- **License:** You must accept the End User License Agreement shown during installation. Before a license is registered, the software can be used for evaluation for 14 days from the first start. Redistribution is not permitted.
+- **License:** You must accept the End User License Agreement ([English](EULA.en.txt) / [日本語](EULA.ja.txt)), which is also shown during installation and at the first login to the admin page. Before a license is registered, the software can be used for evaluation for 14 days from the first start. Redistribution is not permitted.
 - **Trademarks:** Nx Witness and other third-party product names and trademarks belong to their respective owners. This software is not provided, endorsed, or warranted by those vendors.
