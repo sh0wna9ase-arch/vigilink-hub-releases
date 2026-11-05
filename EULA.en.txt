@@ -1,0 +1,83 @@
+Vigilink Hub Software License Agreement
+
+This Agreement is entered into between VigilinkSoft (Sho Nagase) ("we" or "us") and the customer who installs or uses Vigilink Hub, including its accompanying materials and updates (the "Software") ("you"), and sets out the terms for using the Software. By operating the consent button, or by installing or using the Software, you are deemed to have agreed to this Agreement. If you do not agree to this Agreement, do not install or use the Software.
+Any person who installs or configures the Software on your behalf represents and warrants that they have the authority to agree to this Agreement on your behalf.
+
+Article 1 (License)
+Subject to the terms of this Agreement, we grant you a non-exclusive, non-transferable right to use the Software on one server for which a license has been obtained.
+2 Notwithstanding the preceding paragraph, you may use the Software as a standby on other servers that belong to the same Nx Witness site as the licensed server. When used as a standby, the Software operates only with the standby functions defined in the Software, and you do not need to obtain a separate license for that server.
+3 If you switch a server used as a standby to primary and continue to use it as the primary, you shall obtain a license for that server within the grace period defined in the Software.
+
+Article 2 (Trial)
+Before a license is registered, you may use the Software for evaluation purposes only, for 14 days from the first start.
+2 When the trial period ends, some functions of the Software stop.
+3 This Agreement also applies during the trial period.
+
+Article 3 (Prohibited Acts)
+You must not:
+(1) copy the Software, except for backup purposes;
+(2) reverse engineer, decompile or disassemble the Software, except as permitted by law;
+(3) circumvent or disable the licensing mechanism, modify license files, or copy license files for use on servers other than the licensed server;
+(4) redistribute, rent, transfer or sublicense the Software to any third party;
+(5) modify the Software;
+(6) use the Software for any purpose that violates laws, regulations or public order and morals.
+2 Notwithstanding the preceding paragraph, the open source software described in Article 6 is subject to the terms of its respective license.
+
+Article 4 (Intellectual Property)
+Copyrights and other intellectual property rights in the Software belong to us or the rightful owners. This Agreement does not transfer any such rights to you, and all rights not expressly granted in this Agreement are reserved by us or the rightful owners.
+
+Article 5 (Third-Party Products)
+The names and trademarks of Nx Witness and other third-party products belong to their respective owners. The Software is not provided, endorsed or warranted by the providers of those products.
+2 Even if the behavior of the Software changes due to changes to the specifications of, or updates to, third-party products, we do not guarantee compatibility with future versions and are not liable for any resulting damages (except in the cases of Article 9, paragraph 3).
+3 When using third-party products, you shall comply with the terms of use of their providers at your own responsibility.
+
+Article 6 (Open Source Software)
+Open source software included in the Software is subject to the terms of its respective license, notwithstanding this Agreement. If any provision of this Agreement restricts the rights granted to you under such a license, that license prevails.
+
+Article 7 (Handling of Information)
+The Software does not automatically send your information to us, for license verification or any other purpose.
+2 A license request file contains, as information necessary to issue a license, information that identifies the server hardware (hashed), the computer name, the version of the Software, information on the registered license, and the record of attempts to register license files on that server (date and time, license ID, and whether each attempt succeeded and, if not, why). We use this information only for the purposes of issuing, reissuing and managing licenses.
+
+Article 8 (Disclaimer of Warranties)
+The Software is provided "AS IS". Except where such exclusion is not permitted by law, we make no warranties of any kind regarding the Software, express or implied, including merchantability, fitness for a particular purpose, non-infringement of third-party rights, freedom from errors or defects, uninterrupted operation, and absence of security vulnerabilities.
+2 The Software is not intended to be used as the sole means of monitoring, crime prevention or safety. For uses involving human life, health or important property, you are responsible for using other means as well.
+
+Article 9 (Limitation of Liability)
+We are not liable for any damages arising from the use of or inability to use the Software (including lost profits, loss of or gaps in data or recordings, business interruption, malfunction of connected devices, and other indirect, special, incidental or consequential damages), even if we have been advised of the possibility of such damages.
+2 Even where we are liable, our total liability is limited to the amount we received as consideration for the license of the Software.
+3 The preceding two paragraphs do not apply where the damages are caused by our willful misconduct or gross negligence, or where liability cannot be excluded or limited by law.
+
+Article 10 (Support and Updates)
+Unless otherwise agreed separately, we are not obligated to provide support, updates or fixes for the Software.
+2 Updates to a new major version require a paid license upgrade. This Agreement also applies to updates we provide.
+
+Article 11 (Termination)
+If you breach this Agreement, we may terminate it by notifying you.
+2 You may terminate this Agreement at any time by deleting the Software.
+3 Upon termination of this Agreement, you must immediately stop using the Software and delete it.
+4 Articles 4 to 9, this Article, Article 16 and Article 17 survive the termination of this Agreement.
+
+Article 12 (Exclusion of Antisocial Forces)
+You represent and warrant, now and in the future, that you are not an organized crime group, a member of an organized crime group, a company related to an organized crime group, or any other antisocial force ("Antisocial Forces"), and that you have no socially reprehensible relationship with Antisocial Forces.
+2 If you breach the preceding paragraph, we may immediately cancel this Agreement without any notice. In this case, we are not liable for any damages incurred by you.
+
+Article 13 (Export Control)
+If you export the Software, you shall comply with the export laws and regulations of Japan and other applicable countries.
+
+Article 14 (Assignment of Contractual Position)
+We may assign our contractual position under this Agreement and the rights and obligations based on it to a third party, and you agree to this in advance. In this case, we will notify you of the successor by posting it on our website or by other means.
+
+Article 15 (Changes to this Agreement)
+We may change the contents of this Agreement pursuant to Article 548-4 of the Civil Code of Japan. In that case, we will announce the effective date and the changed contents by posting them on our website, by displaying them on screen when the Software is updated, or by other appropriate means.
+
+Article 16 (General Provisions)
+Even if any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions remain in effect.
+2 This Agreement constitutes the entire agreement between you and us regarding the use of the Software. However, if there is a separate written agreement, that agreement prevails.
+
+Article 17 (Governing Law and Jurisdiction)
+This Agreement is governed by the laws of Japan. The Tokyo District Court shall have exclusive jurisdiction as the court of first instance over any dispute relating to this Agreement.
+
+Article 18 (Language)
+This Agreement is made in Japanese and English. If there is any discrepancy between the two versions, the Japanese version prevails.
+
+Contact: sh0w.na9ase@gmail.com
